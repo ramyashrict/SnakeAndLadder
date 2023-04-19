@@ -1,0 +1,5 @@
+C:\Users\Admin\bridgelab\csharpprograms\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.csproj.AssemblyReference.cache
+C:\Users\Admin\bridgelab\csharpprograms\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\bridgelab\csharpprograms\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.AssemblyInfoInputs.cache
+C:\Users\Admin\bridgelab\csharpprograms\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.AssemblyInfo.cs
+C:\Users\Admin\bridgelab\csharpprograms\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.csproj.CoreCompileInputs.cache
